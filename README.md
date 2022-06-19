@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 📙 C++
-- 🌱 Python ing
 - 📫 hwangxiao@sjtu.edu.cn
 
 <!--
