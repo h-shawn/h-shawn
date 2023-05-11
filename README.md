@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 📫 hwangxiao@sjtu.edu.cn
-
 ![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-shawn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-shawn&layout=compact)](https://github.com/h-shawn/github-readme-stats)
 
 <!--
