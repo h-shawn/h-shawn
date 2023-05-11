@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 hwangxiao@sjtu.edu.cn
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-shawn)
+![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-shawn) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-shawn&layout=compact)](https://github.com/h-shawn/github-readme-stats)
 
 <!--
 **h-shawn/h-shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
